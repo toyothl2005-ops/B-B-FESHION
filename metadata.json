@@ -1,0 +1,6 @@
+{
+  "name": "Luxury Fashion Concept",
+  "description": "A high-converting, single-page luxury fashion e-commerce experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
